@@ -21,7 +21,7 @@ simple bookkeeping and report with excel in China
 
   - ### 1. 收到服务款项记账：
 
-    ![image.png](https://raw.github.com/areur3ady/simple-financial-report-with-excel/blob/main/assets/image_1641014051949_0.png)
+    ![image.png](https://github.com/areur3ady/simple-financial-report-with-excel/blob/main/assets/image_1641014051949_0.png)
 
     - 1.1 在年月日填写实际收款日期，凭证号填“1”，代表本月第一张记账凭证。
     - 1.2 行项目填写1、2，表示这张凭证一个有2行。 输入1时单元格自动添加提示性的红色底纹。摘要填写“收到咨询费”，说明这笔业务的经济实质。
